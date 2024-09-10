@@ -542,7 +542,7 @@ FD7014
         }
         
         .blog-cover {
-          background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/17779/yosemite-3.jpg");
+          background: url("./bback.jpg");
           background-size: cover;
           border-radius: 5px 5px 0 0;
           height: 15rem;
@@ -719,7 +719,17 @@ FD7014
 
     
 
+#er{
+  font-size: 30px;
+  color: #FD7014;
+ text-shadow: #FD7014 1px 1px 10px;
+ padding-bottom: 20px;
+}
 
+#f-i{
+  color: rgb(129, 129, 129);
+  text-shadow: rgb(129, 129, 129) 1px 1px 10px;
+}
 
 
         /* //// */
